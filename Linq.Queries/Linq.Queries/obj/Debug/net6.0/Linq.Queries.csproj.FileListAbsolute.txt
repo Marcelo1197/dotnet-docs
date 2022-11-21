@@ -1,0 +1,15 @@
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\bin\Debug\net6.0\Linq.Queries.deps.json
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\bin\Debug\net6.0\Linq.Queries.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\bin\Debug\net6.0\Linq.Queries.pdb
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.csproj.AssemblyReference.cache
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.AssemblyInfoInputs.cache
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.AssemblyInfo.cs
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.csproj.CoreCompileInputs.cache
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\refint\Linq.Queries.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.pdb
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\ref\Linq.Queries.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\bin\Debug\net6.0\Linq.DataAccess.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\bin\Debug\net6.0\Linq.DataAccess.pdb
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.Queries\obj\Debug\net6.0\Linq.Queries.csproj.CopyComplete

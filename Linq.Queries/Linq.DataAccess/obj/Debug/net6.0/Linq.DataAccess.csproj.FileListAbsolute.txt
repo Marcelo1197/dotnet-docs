@@ -1,0 +1,14 @@
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.csproj.AssemblyReference.cache
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.AssemblyInfoInputs.cache
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.AssemblyInfo.cs
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.csproj.CoreCompileInputs.cache
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\bin\Debug\net6.0\Linq.DataAccess.deps.json
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\bin\Debug\net6.0\Linq.DataAccess.runtimeconfig.json
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\bin\Debug\net6.0\Linq.DataAccess.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\bin\Debug\net6.0\Linq.DataAccess.pdb
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\refint\Linq.DataAccess.dll
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.pdb
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\Linq.DataAccess.genruntimeconfig.cache
+C:\Proyectos\backend\ApiOpenBootCamp\Linq.Queries\Linq.DataAccess\obj\Debug\net6.0\ref\Linq.DataAccess.dll
