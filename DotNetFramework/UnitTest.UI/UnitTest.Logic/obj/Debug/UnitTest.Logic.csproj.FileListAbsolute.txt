@@ -1,0 +1,9 @@
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\bin\Debug\UnitTest.Logic.dll
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\bin\Debug\UnitTest.Logic.pdb
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\bin\Debug\UnitTest.Common.dll
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\bin\Debug\UnitTest.Common.pdb
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\obj\Debug\UnitTest.Logic.csproj.AssemblyReference.cache
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\obj\Debug\UnitTest.Logic.csproj.CoreCompileInputs.cache
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\obj\Debug\UnitTest.Logic.csproj.CopyComplete
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\obj\Debug\UnitTest.Logic.dll
+C:\Proyectos\backend\aplicando_conceptos\UnitTest.UI\UnitTest.Logic\obj\Debug\UnitTest.Logic.pdb
